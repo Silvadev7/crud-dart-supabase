@@ -31,4 +31,4 @@ SUPABASE_PUBLISHABLE_KEY=sua_chave
 
 Primeiro, instale as dependências: dart pub get
 
-Depois, execute o projeto: dart run
+Depois, execute o projeto: dart run bin/main.dart
